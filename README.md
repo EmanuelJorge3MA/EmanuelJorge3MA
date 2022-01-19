@@ -9,7 +9,7 @@
 
  ### Conecte-se comigo:
 
- [<img align="left" alt="3MA | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="3MA | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -19,4 +19,5 @@
 
 <br />
 <br />
-[instagram]: https://www.instagram.com/3ma_application/
+
+[instagram]:https://www.instagram.com/3ma_application
