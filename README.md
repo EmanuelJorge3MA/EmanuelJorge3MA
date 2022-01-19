@@ -20,4 +20,4 @@
 <br />
 <br />
 
-[instagram]:https://www.instagram.com/3ma_application
+[instagram]:https://www.instagram.com/3ma_application/
