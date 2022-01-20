@@ -1,6 +1,6 @@
  ### Olá pessoal, Eu sou Emanuel Jorge - aka 3MA 👋
 
- ## Eu sou Engenheiro Informático na área Ciência da Computação, Desenvolvedor e Desportista.
+ ## Sou Engenheiro Informático na área Ciência da Computação, Desenvolvedor e Desportista.
  - 🔨 Eu atualmente estou a trabalhar em Swift & Flutter Projetos
  - 🌱 Eu gosto de aprender tudo
  - 👯‍♂️ Eu estou procurando colaborar com outros criadores de conteúdo
